@@ -9,10 +9,10 @@ There is just one tiny problem though... our collection is too large to search t
 
 ## UFO Sighting App
 
-![homepage](StarterCode/static/images/homepage.png)
+![homepage](static/images/homepage.png)
 To provide an easy way to search through the observation, an appication was created to create a dynamic table. Javascript, HTML, CSS and D3.js were used to created the website.
 
-![Dynamic Table](StarterCode/static/images/dynamic_table.png)
+![Dynamic Table](static/images/dynamic_table.png)
 
 
 We also provide user search function, in which, user can to set multiple filters and search for UFO sightings using the following criteria based on the table columns:
@@ -23,7 +23,7 @@ We also provide user search function, in which, user can to set multiple filters
   4. `country`
   5. `shape`
 
-![Filtered Table](StarterCode/static/images/filteredtable.png)
+![Filtered Table](static/images/filteredtable.png)
 
 
 After provide search criteria, users will simply click Filter Table button to search UFO Sighting aviable. When users want to provide new search input, they can click "Clear Search" button to clear old filter criteria. Once the "Clear Search" button is clicked, all search inputs will be cleared and table will be reset to display all available UFO observations.
